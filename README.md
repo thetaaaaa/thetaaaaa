@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
+- 💬 I’m a PhD student from Nanjing University, major in Library and Information Management.
+- 👯 I’m currently a visiting scholar at Harvard University, working with CBDB project. 
 - 🔭 I’m currently working on Chinese Historical Documents Reorganization based on Linked Open Data.
 - 🌱 I’m currently working on Chinese Historical Gazetteers.
 
